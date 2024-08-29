@@ -1,0 +1,428 @@
+{
+    "quizzes": [
+        {
+            "title": "HTML",
+            "icon": "/images/icon-html.svg",
+            "questions": [
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                }
+            ]
+        },
+        {
+            "title": "CSS",
+            "icon": "/images/icon-css.svg",
+            "questions": [
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 2"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 3"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 4"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 2"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                }
+            ]
+        },
+        {
+            "title": "JavaScript",
+            "icon": "/images/icon-js.svg",
+            "questions": [
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                },
+                {
+                    "question": "¿pregunta?",
+                    "options": [
+                        "opcion 1",
+                        "opcion 2",
+                        "opcion 3",
+                        "opcion 4"
+                    ],
+                    "answer": "opcion 1"
+                }
+            ]
+        },
+        {
+            "title": "Bootstrap",
+            "icon": "/images/icon-bt.svg",
+            "questions": [
+                {
+                    "question": "¿Qué clase proporciona un contenedor de ancho fijo adaptable?",
+                    "options": [
+                        ".container",
+                        ".container-responsive",
+                        ".container-fixed",
+                        ".container-fluid"
+                    ],
+                    "answer": ".container"
+                },
+                {
+                    "question": "¿Qué clase se puede usar para hacer flotar un elemento a la derecha de la página?",
+                    "options": [
+                        ".float-right",
+                        ".float-end",
+                        ".float-start",
+                        ".float-r"
+                    ],
+                    "answer": ".float-end"
+                },
+                {
+                    "question": "¿En cuántas columnas se basa el sistema de cuadrícula Bootstrap?",
+                    "options": [
+                        "12",
+                        "3",
+                        "9",
+                        "6"
+                    ],
+                    "answer": "12"
+                },
+                {
+                    "question": "¿Qué clase da forma a una imagen en forma de círculo?",
+                    "options": [
+                        ".img-circle",
+                        ".rounded-circle",
+                        ".img-rounded",
+                        ".img-round"
+                    ],
+                    "answer": ".rounded-circle"
+                },
+                {
+                    "question": "¿Qué clase se utiliza para crear un grupo de botones?",
+                    "options": [
+                        ".button-group",
+                        ".group-button",
+                        ".btn-group",
+                        ".group-btn"
+                    ],
+                    "answer": ".btn-group"
+                },
+                {
+                    "question": "¿Qué clase se utiliza para crear un indicador de carga?",
+                    "options": [
+                        ".spinner-loader",
+                        ".spinner-border",
+                        ".loader",
+                        ".spinner"
+                    ],
+                    "answer": ".spinner-border"
+                },
+                {
+                    "question": "¿Qué clase agrega un encabezado a una tarjeta?",
+                    "options": [
+                        ".card-footer",
+                        ".card-header",
+                        ".card-head",
+                        ".card-heading"
+                    ],
+                    "answer": ".card-header"
+                },
+                {
+                    "question": "¿Qué clase se utiliza para crear una barra de navegación vertical?",
+                    "options": [
+                        ".navbar navbar-vertical",
+                        ".navbar-inverse",
+                        ".navbar-vertical",
+                        ".navbar"
+                    ],
+                    "answer": ".navbar"
+                },
+                {
+                    "question": "¿Qué atributo se utiliza para crear una información sobre herramientas?",
+                    "options": [
+                        "data-bs-toggle=\"collapse\"",
+                        "data-bs-toggle=\"popup\"",
+                        "data-bs-toggle=\"tooltip\"",
+                        "data-bs-toggle=\"modal\""
+                    ],
+                    "answer": "data-bs-toggle=\"tooltip\""
+                },
+                {
+                    "question": ". Una pestaña de navegación estándar se crea con:",
+                    "options": [
+                        "<ul class=\"nav tabs\">",
+                        "<ul class=\"nav nav-tabs\">",
+                        "<ul class=\"navigation-tabs\">",
+                        "<ul class=\"nav nav-navbar\">"
+                    ],
+                    "answer": "<ul class=\"nav nav-tabs\">"
+                }
+            ]
+        }
+    ]
+}
