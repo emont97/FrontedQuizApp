@@ -38,16 +38,16 @@ function setSubjectBars(type) {
     for (let bar of bars) {
         bar.lastElementChild.innerHTML = type
         if (type == "HTML") {
-            bar.firstElementChild.firstElementChild.src = "/images/icon-html.svg"
+            bar.firstElementChild.firstElementChild.src = "images/icon-html.svg"
         }
         else if (type == "CSS") {
-            bar.firstElementChild.firstElementChild.src = "/images/icon-css.svg"
+            bar.firstElementChild.firstElementChild.src = "images/icon-css.svg"
         }
         else if (type == "JavaScript") {
-            bar.firstElementChild.firstElementChild.src = "/images/icon-js.svg"
+            bar.firstElementChild.firstElementChild.src = "images/icon-js.svg"
         }
         else {
-            bar.firstElementChild.firstElementChild.src = "/images/icon-bt.svg"
+            bar.firstElementChild.firstElementChild.src = "images/icon-bt.svg"
         }
         bar.style.visibility = "visible"
     }
@@ -148,7 +148,7 @@ submit.addEventListener("click", function () {
         // cambiando estilo y apariencia del boton de enviar pregunta.
         if (!selectedBox.classList.contains("correct")) {
             score++;
-            selectedBox.innerHTML += "<img class='correct-icon' src='/images/icon-correct.svg'>"
+            selectedBox.innerHTML += "<img class='correct-icon' src='images/icon-correct.svg'>"
         }
         selectedBox.classList.add("correct")
         selectedBox.firstChild.classList.add("correct-box")
@@ -157,7 +157,7 @@ submit.addEventListener("click", function () {
     else {
         // apply some invalid css styles to boxes
         if (!selectedBox.classList.contains("invalid")) {
-            selectedBox.innerHTML += "<img class='invalid-icon' src='/images/icon-incorrect.svg'>"
+            selectedBox.innerHTML += "<img class='invalid-icon' src='images/icon-incorrect.svg'>"
         }
 
         selectedBox.classList.add("invalid")
@@ -185,7 +185,7 @@ function revealAnswers() {
             if (!option.classList.contains("correct")) {
                 option.classList.add("correct")
                 option.firstChild.classList.add("correct-box")
-                option.innerHTML += "<img class='correct-icon' src='/images/icon-correct.svg'>"
+                option.innerHTML += "<img class='correct-icon' src='images/icon-correct.svg'>"
 
             }
         }
@@ -193,7 +193,7 @@ function revealAnswers() {
             if (!option.classList.contains("invalid")) {
                 option.classList.add("invalid")
                 option.firstChild.classList.add("invalid-box")
-                option.innerHTML += "<img class='invalid-icon' src='/images/icon-incorrect.svg'>"
+                option.innerHTML += "<img class='invalid-icon' src='images/icon-incorrect.svg'>"
             }
         }
     }
