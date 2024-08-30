@@ -32,7 +32,7 @@ function questionScreen(type) {
     getQuiz(type);
 }
 
-    //Inicializando las barras de seleccion de tema
+//Inicializando las barras de seleccion de tema
 function setSubjectBars(type) {
     var bars = document.querySelectorAll(".curr-subject");
     for (let bar of bars) {
