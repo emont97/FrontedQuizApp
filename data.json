@@ -113,100 +113,100 @@
                 {
                     "question": "¿Qué propiedad de CSS3 se utiliza para aplicar una sombra a un texto?",
                     "options": [
-                      "text-shadow",
-                      "box-shadow",
-                      "shadow-text",
-                      "font-shadow"
+                        "text-shadow",
+                        "box-shadow",
+                        "shadow-text",
+                        "font-shadow"
                     ],
                     "answer": "text-shadow"
                 },
                 {
                     "question": "¿Qué propiedad de CSS3 permite controlar la opacidad de un elemento?",
                     "options": [
-                      "opacity",
-                      "visibility",
-                      "filter",
-                      "alpha"
+                        "opacity",
+                        "visibility",
+                        "filter",
+                        "alpha"
                     ],
                     "answer": "opacity"
                 },
                 {
                     "question": "¿Qué propiedad de CSS3 se utiliza para crear esquinas redondeadas en un elemento?",
                     "options": [
-                      "border-radius",
-                      "border-style",
-                      "border-curve",
-                      "corner-radius"
+                        "border-radius",
+                        "border-style",
+                        "border-curve",
+                        "corner-radius"
                     ],
                     "answer": "border-radius"
                 },
                 {
                     "question": "¿Cuál de las siguientes es una unidad de medida relativa en CSS3?",
                     "options": [
-                      "px",
-                      "em",
-                      "cm",
-                      "mm"
+                        "px",
+                        "em",
+                        "cm",
+                        "mm"
                     ],
                     "answer": "em"
                 },
                 {
                     "question": "¿Qué propiedad CSS3 se utiliza para aplicar una transición en una animación?",
                     "options": [
-                      "animation",
-                      "transition",
-                      "transform",
-                      "keyframes"
+                        "animation",
+                        "transition",
+                        "transform",
+                        "keyframes"
                     ],
                     "answer": "transition"
                 },
                 {
                     "question": "¿Qué propiedad CSS3 se utiliza para aplicar múltiples imágenes de fondo en un elemento?",
                     "options": [
-                      "background-image",
-                      "background-multi",
-                      "background-set",
-                      "background-layer"
+                        "background-image",
+                        "background-multi",
+                        "background-set",
+                        "background-layer"
                     ],
                     "answer": "background-image"
                 },
                 {
                     "question": "¿Qué propiedad CSS3 se utiliza para transformar un elemento en 3D?",
                     "options": [
-                      "transform",
-                      "perspective",
-                      "rotate",
-                      "translate"
+                        "transform",
+                        "perspective",
+                        "rotate",
+                        "translate"
                     ],
                     "answer": "transform"
                 },
                 {
                     "question": "¿Qué propiedad CSS3 permite distribuir el espacio sobrante entre elementos flexibles en un contenedor?",
                     "options": [
-                      "flex",
-                      "align-content",
-                      "justify-content",
-                      "space-around"
+                        "flex",
+                        "align-content",
+                        "justify-content",
+                        "space-around"
                     ],
                     "answer": "justify-content"
                 },
                 {
                     "question": "¿Cuál de las siguientes es una función en CSS3 utilizada para aplicar transformaciones de escala, rotación o traslación?",
                     "options": [
-                      "scale",
-                      "skew",
-                      "rotate",
-                      "transform"
+                        "scale",
+                        "skew",
+                        "rotate",
+                        "transform"
                     ],
                     "answer": "rotate"
                 },
                 {
                     "question": "¿Qué propiedad CSS3 define la repetición de una animación?",
                     "options": [
-                      "animation-duration",
-                      "animation-repeat",
-                      "animation-iteration-count",
-                      "animation-cycle"
+                        "animation-duration",
+                        "animation-repeat",
+                        "animation-iteration-count",
+                        "animation-cycle"
                     ],
                     "answer": "animation-iteration-count"
                 }
