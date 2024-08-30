@@ -5,104 +5,104 @@
             "icon": "/images/icon-html.svg",
             "questions": [
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cuál es la estructura correcta de un documento HTML5?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "<html><body><head></head></body></html>",
+                        "<html><head></head><body></body></html>",
+                        "<html><title></title><body></body></html>",
+                        "<html><meta></meta><body></body></html>"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "<html><head></head><body></body></html>"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué etiqueta HTML5 se usa para reproducir un archivo de audio en una página web?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "<media>",
+                        "<audio>",
+                        "<sound>",
+                        "<voice>"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "<audio>"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué etiqueta en HTML5 define el contenido principal de un documento?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "<main>",
+                        "<section>",
+                        "<article>",
+                        "<div>"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "<main>"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué atributo HTML5 se utiliza para especificar texto alternativo para una imagen?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "<alt>",
+                        "<title>",
+                        "<description>",
+                        "<text>"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "<alt>"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué etiqueta en HTML5 se utiliza para agrupar enlaces de navegación?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "<menu>",
+                        "<nav>",
+                        "<ul>",
+                        "<link>"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "<nav>"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cuál es la etiqueta HTML5 correcta para incrustar un vídeo en una página web?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "<media>",
+                        "<video>",
+                        "<embed>",
+                        "<object>"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "<video>"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cuál es la etiqueta adecuada en HTML5 para definir una sección que contiene contenido tangencial al contenido principal de la página?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "<section>",
+                        "<aside>",
+                        "<article>",
+                        "<footer>"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "<aside>"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué etiqueta HTML5 se utiliza para definir un área de contenido visible que puede ser ocultada o mostrada por el usuario?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "<details>",
+                        "<dialog>",
+                        "<summary>",
+                        "<aside>"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "<dialog>"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué etiqueta HTML5 define un texto destacado, importante o con un énfasis especial?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "<b>",
+                        "<em>",
+                        "<strong>",
+                        "<i>"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "<strong>"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cuál es el atributo correcto en HTML5 para hacer que un campo de entrada sea obligatorio en un formulario?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "required",
+                        "mandatory",
+                        "obligatory",
+                        "compulsory"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "required"
                 }
             ]
         },
@@ -111,104 +111,104 @@
             "icon": "/images/icon-css.svg",
             "questions": [
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué propiedad de CSS3 se utiliza para aplicar una sombra a un texto?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                      "text-shadow",
+                      "box-shadow",
+                      "shadow-text",
+                      "font-shadow"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "text-shadow"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué propiedad de CSS3 permite controlar la opacidad de un elemento?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                      "opacity",
+                      "visibility",
+                      "filter",
+                      "alpha"
                     ],
-                    "answer": "opcion 2"
+                    "answer": "opacity"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué propiedad de CSS3 se utiliza para crear esquinas redondeadas en un elemento?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                      "border-radius",
+                      "border-style",
+                      "border-curve",
+                      "corner-radius"
                     ],
-                    "answer": "opcion 3"
+                    "answer": "border-radius"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cuál de las siguientes es una unidad de medida relativa en CSS3?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                      "px",
+                      "em",
+                      "cm",
+                      "mm"
                     ],
-                    "answer": "opcion 4"
+                    "answer": "em"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué propiedad CSS3 se utiliza para aplicar una transición en una animación?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                      "animation",
+                      "transition",
+                      "transform",
+                      "keyframes"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "transition"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué propiedad CSS3 se utiliza para aplicar múltiples imágenes de fondo en un elemento?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                      "background-image",
+                      "background-multi",
+                      "background-set",
+                      "background-layer"
                     ],
-                    "answer": "opcion 2"
+                    "answer": "background-image"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué propiedad CSS3 se utiliza para transformar un elemento en 3D?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                      "transform",
+                      "perspective",
+                      "rotate",
+                      "translate"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "transform"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué propiedad CSS3 permite distribuir el espacio sobrante entre elementos flexibles en un contenedor?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                      "flex",
+                      "align-content",
+                      "justify-content",
+                      "space-around"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "justify-content"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cuál de las siguientes es una función en CSS3 utilizada para aplicar transformaciones de escala, rotación o traslación?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                      "scale",
+                      "skew",
+                      "rotate",
+                      "transform"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "rotate"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué propiedad CSS3 define la repetición de una animación?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                      "animation-duration",
+                      "animation-repeat",
+                      "animation-iteration-count",
+                      "animation-cycle"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "animation-iteration-count"
                 }
             ]
         },
@@ -217,104 +217,104 @@
             "icon": "/images/icon-js.svg",
             "questions": [
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cómo se declara una variable en JavaScript?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "int",
+                        "dim",
+                        "var - let",
+                        "for - while"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "var - let"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cuál es el método utilizado para convertir una cadena de texto a un número entero en JavaScript?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "parseInt()",
+                        "Number()",
+                        "toInt()",
+                        "convert()"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "parseInt()"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué método de JavaScript se usa para seleccionar un elemento por su ID?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "querySelector()",
+                        "getElementByClass()",
+                        "getById()",
+                        "getElementById()"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "getElementById()"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cómo se define una función en JavaScript?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "def myFunction()",
+                        "function myFunction()",
+                        "function:myFunction()",
+                        "void myFunction()"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "function myFunction()"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cuál de los siguientes métodos detiene la propagación de un evento en JavaScript?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "stopPropagation()",
+                        "preventDefault()",
+                        "stopEvent()",
+                        "haltEvent()"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "stopEvent()"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cómo se agrega un elemento al final de un array en JavaScript?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "push()",
+                        "add()",
+                        "append()",
+                        "insert()"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "add()"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cuál de las siguientes estructuras de control se usa para recorrer todos los elementos de un array en JavaScript?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "foreach",
+                        "do-while",
+                        "while",
+                        "for"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "while"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Qué método de JavaScript se usa para combinar dos o más arrays en uno solo?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "combine()",
+                        "merge()",
+                        "join()",
+                        "concat()"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "join()"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cuál es el valor de retorno de typeof null en JavaScript?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "object",
+                        "null",
+                        "undefided",
+                        "boolean"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "object"
                 },
                 {
-                    "question": "¿pregunta?",
+                    "question": "¿Cómo se define una función de flecha en JavaScript?",
                     "options": [
-                        "opcion 1",
-                        "opcion 2",
-                        "opcion 3",
-                        "opcion 4"
+                        "let func = => {}",
+                        "let func = -> {}",
+                        "let func = () => {}",
+                        "let func = function() {}"
                     ],
-                    "answer": "opcion 1"
+                    "answer": "let func = () => {}"
                 }
             ]
         },
